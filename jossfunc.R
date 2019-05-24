@@ -175,3 +175,4 @@ cohens.d.from.odds.simple <- function (odds){
     return(log(odds)*sqrt(3)/pi)   
 
 }
+
